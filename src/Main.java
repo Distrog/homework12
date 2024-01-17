@@ -7,5 +7,6 @@ public class Main {
         System.out.println(java.getYearOfPublication());
         java.setYearOfPublication(2023);
         System.out.println(java.getYearOfPublication());
+        System.out.println(cleanCode);
     }
 }
